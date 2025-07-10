@@ -1,0 +1,4 @@
+﻿  game.cpp
+C:\Users\23733\Desktop\Desk\Studies\C&Cpp项目\扫雷\game.cpp(154,2): warning C4102: “begin”: 未引用的标签
+C:\Users\23733\Desktop\Desk\Studies\C&Cpp项目\扫雷\game.cpp(228,1): warning C4102: “win”: 未引用的标签
+  扫雷.vcxproj -> C:\Users\23733\Desktop\Desk\Studies\C&Cpp项目\扫雷\x64\Debug\扫雷.exe
